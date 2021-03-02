@@ -1,0 +1,16 @@
+PODS:
+  - LLExpandTable (0.1.0)
+
+DEPENDENCIES:
+  - LLExpandTable (from `../`)
+
+EXTERNAL SOURCES:
+  LLExpandTable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LLExpandTable: c01cd79193fff7efc580b65bba538e75a8937bc8
+
+PODFILE CHECKSUM: 60b0cb084711e7b6bd53cf1ebdd348bf12297a2b
+
+COCOAPODS: 1.9.3

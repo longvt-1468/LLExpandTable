@@ -1,0 +1,6 @@
+framework module LLExpandTable {
+  umbrella header "LLExpandTable-umbrella.h"
+
+  export *
+  module * { export * }
+}
