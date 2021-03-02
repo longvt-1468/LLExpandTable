@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LLExpandTable'
-  s.version          = '0.3.0'
+  s.version          = '0.4.0'
   s.summary          = 'expand tableview smooth'
   s.swift_version = '5.0'
 # This description is used to generate tags and improve search results.
